@@ -1,4 +1,4 @@
-## ipl-2020
+## IPL-2020
 # webScrapping with Node.js and Javascript
 
 * You are given link of IPL 2020-2021 home page link.
